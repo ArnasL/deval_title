@@ -1,0 +1,49 @@
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Cursor
+.agents/
+.cursor/
+.cursorrules
+
+# Kilo Code
+.kilocode/
+
+# Antigravity
+.agent/
+
+# Git Build Release Script
+git-build-release.sh
+git-init-module.sh
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs & temp files
+*.log
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# PrestaShop runtime directories (generated at runtime, not versioned)
+var/
+uploads/
+
+# Build output
+v*.zip
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build artifacts
+/views/css/*.min.css
+/views/js/*.min.js
