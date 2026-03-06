@@ -17,8 +17,6 @@
  * @copyright DEVALSHOP.COM © 2025
  * @license   https://www.devalshop.com/ Commercial License
  * @version   1.0.0
- * @php_version 7.4 - 8.4
- * @prestashop_version 1.7.8.0 - 9.0.1
  */
 
 declare(strict_types=1);
@@ -52,7 +50,7 @@ class Deval_Title extends Module
         $this->need_instance = 0;
         $this->ps_versions_compliancy = [
             'min' => '1.7.8.0',
-            'max' => '9.0.1'
+            'max' => '9.0.3'
         ];
         $this->bootstrap = true;
 
