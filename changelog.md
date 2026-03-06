@@ -8,12 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-11-18
 
 ### Initial release
-- Initial release of Global Title module
+- Initial release of DEVAL - Global Title module
 - Add global prefix or suffix to all page titles
 - Customizable separator between title and text
 - Enable/disable functionality
 - Admin interface with tabbed configuration (Settings, Tutorial, About)
-- Multi-language support (EN, LT)
+- Multi-language support
 
 ### Features
 - **Title Type Selection**: Choose between Prefix (beginning) or Suffix (end) placement
