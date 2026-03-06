@@ -1,4 +1,4 @@
-# Global Title - PrestaShop Module
+# DEVAL - Global Title
 
 ## Description
 Add a global prefix or suffix to all page titles across your PrestaShop store for better branding and SEO.
